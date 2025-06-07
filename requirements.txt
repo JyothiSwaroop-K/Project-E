@@ -2,10 +2,12 @@ streamlit
 chromadb
 langchain
 sentence-transformers
-whisper
+streamlit-mic-recorder
+openai-whisper
 gTTS
+scikit-learn
+numpy
 opencv-python
 mediapipe
 pandas
 matplotlib
-scikit-learn
