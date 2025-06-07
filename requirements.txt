@@ -1,0 +1,11 @@
+streamlit
+chromadb
+langchain
+sentence-transformers
+whisper
+gTTS
+opencv-python
+mediapipe
+pandas
+matplotlib
+scikit-learn
